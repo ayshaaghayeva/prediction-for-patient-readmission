@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops an **explainable machine learning model** to predict **early hospital readmission risk among diabetic patients** using real clinical data. The project focuses on building a reliable prediction system by exploring data quality issues, handling class imbalance, comparing different models, and explaining predictions using **SHAP**.
+This project applies machine learning techniques to predict early hospital readmission risk among diabetic patients using real clinical data. The project focuses on building a reliable prediction system by exploring data quality issues, handling class imbalance, comparing different models, and explaining predictions using **SHAP**.
 
 ## Dataset
 
